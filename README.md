@@ -1,4 +1,4 @@
-Put this autoexec.cfg into %UserProfile%\Documents\My Games\Tabletop Simulator (Paste this into address bar in File Explorer)
+Put autoexec.cfg (Right click and Save as on file above) into %UserProfile%\Documents\My Games\Tabletop Simulator (Paste this into address bar in File Explorer)
 
 This will set up keys:
   Keypad 1-6 for views 1-6
