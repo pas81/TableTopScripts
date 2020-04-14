@@ -8,4 +8,4 @@ This will set up keys:
 
 To set views 1 to 6 put your main view in the desired location using movement keys etc then press ctrl+1, 2 etc.
   
-![Example of screen-in-screen](https://github.com/pas81/TableTopScripts/blob/AutoExec/Example.PNG)
+![Example of screen-in-screen](https://raw.githubusercontent.com/pas81/TableTopScripts/AutoExec/KeyConfigAutoExec/Example.png)
